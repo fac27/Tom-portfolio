@@ -40,7 +40,7 @@ Because of our emphasis on semantics there was very little need for aria labels 
 
 and also in the basket. This scenaria was probably avoidable.
 
-`` 
+```
 <hr aria-hidden="true"> 
 ```
 
